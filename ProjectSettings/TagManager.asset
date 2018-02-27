@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - HUD
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: HUD
+    uniqueID: 521846419
+    locked: 0
+  - name: Menu
+    uniqueID: 567148789
+    locked: 0
+  - name: Modal
+    uniqueID: 3663339949
+    locked: 0
+  - name: System Prompt
+    uniqueID: 1340002169
     locked: 0
