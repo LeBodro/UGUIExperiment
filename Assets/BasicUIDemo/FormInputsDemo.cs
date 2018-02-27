@@ -8,6 +8,7 @@ public class FormInputsDemo : MonoBehaviour
     [SerializeField] InputField textInput;
     [SerializeField] Text updatedLabel;
     [SerializeField] Transform rotator;
+    [SerializeField] CanvasGroup ui;
 
     float turnsPerSecond;
 
@@ -42,8 +43,8 @@ public class FormInputsDemo : MonoBehaviour
         rotator.Rotate(Vector3.up, turnsPerSecond * Time.deltaTime * 360);
     }
 
-    public void SetRotation(float ratio)
+    public void SetUIAlpha(float alpha)
     {
-        rotator.rotation = Quaternion.AngleAxis(ratio * 360, Vector3.up);
+        ui.alpha = alpha;
     }
 }
