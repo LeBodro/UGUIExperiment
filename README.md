@@ -1,8 +1,9 @@
 # UGUIExperiment
 Basic demonstration of Unity's UI feature.
 
-This was made with Unity 2017.3.0f3
-The project's Unity version is now 2018.2.11f1
+This was made with Unity 2017.3.0f3.
+
+The project's Unity version is now 2018.2.11f1.
 
 ### What is covered
 
