@@ -37,7 +37,7 @@ The project's Unity version is now 2018.2.11f1.
 ### Teachings of scene Events
 
 - Event interfaces (don't forget that EventSystem).
-- ~~Event Trigger component.~~ _(not yet covered)_
+- Event Trigger component.
 
 ### InGameUI instructions
 
