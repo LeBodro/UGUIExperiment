@@ -14,7 +14,32 @@ The project's Unity version is now 2018.2.11f1.
 - Event system, event triggers and physics raycaster with event system interfaces use.
 - Probably some more stuff.
 
-### InGameUI Scene
+### Teachings of scene OverlayUI
+
+- GameObject hierarchy and mandatory components (Canvas and RectTransforms).
+- UGUI secondary components (Raycaster, EventSystem).
+- UGUI optional components (controls, layouts, fills, scroll area).
+- "World Space" canvas render mode.
+- Responsivity (how to support multiple resolutions).
+- Error prone VS robust event binding.
+
+### Teachings of scene Ordering
+
+- Sort order.
+- More layouts examples.
+- Image fill example.
+
+### Teachings of scene InGameUI
+
+- "World Space" canvas render mode example.
+- Still more layout examples.
+
+### Teachings of scene Events
+
+- Event interfaces (don't forget that EventSystem).
+- ~~Event Trigger component.~~ _(not yet covered)_
+
+### InGameUI instructions
 
 - WASD or arrows to move.
 - Mouse to look around.
