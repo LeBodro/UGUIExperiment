@@ -33,11 +33,11 @@ The project's Unity version is now 2018.2.11f1.
 
 - "World Space" canvas render mode example.
 - Still more layout examples.
+- Event Trigger component.
 
 ### Teachings of scene Events
 
 - Event interfaces (don't forget that EventSystem).
-- Event Trigger component.
 
 ### InGameUI instructions
 
